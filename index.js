@@ -1,5 +1,6 @@
 const server = require("express")();
 const line = require("@line/bot-sdk");
+const a = 2;
 
 //環境設定
 const line_config = {
